@@ -1,9 +1,9 @@
-core_booster_konashi
+core booster: konashi
 ====================
 
 ## Overview
 
-[konashi](http://konashi.ux-xu.com/) is a wireless physical computing toolkit developed by [YUKAI Engineering Inc](http://www.ux-xu.com/). These are examples created for the workshop at the core booster project from September 17 2013.
+[konashi](http://konashi.ux-xu.com/) is a wireless physical computing toolkit developed by [YUKAI Engineering Inc](http://www.ux-xu.com/). These are examples created for the workshop at the core booster project on September 24 2013.
 
 Created by [Shigeru Kobayashi](https://www.facebook.com/yapan.org) (Associate professor, [Institute of Advanced Media Arts and Sciences [IAMAS]](http://www.iamas.ac.jp/))
 
@@ -19,6 +19,7 @@ Created by [Shigeru Kobayashi](https://www.facebook.com/yapan.org) (Associate pr
 * **AddMapAnnotationsByPhysicalEvents**: an example of add map annotations to a map by physical events
 * **ControlByShaking**: an example to illustrate a way of controlling a LED by shaking
 * **BlinkM**: an example to illustrate a way of controlling a BlinkM, a smart LED developed by ThingM
+* **ControlServo**: an example to illustrate a way of controlling a RC servo
 
 ## References
 
@@ -29,7 +30,7 @@ Created by [Shigeru Kobayashi](https://www.facebook.com/yapan.org) (Associate pr
 
 ## 概要
 
-[konashi](http://konashi.ux-xu.com/)は[ユカイ工学](http://www.ux-xu.com/)によって開発された、ワイヤレスなフィジカルコンピューティングのツールキットです。2013年9月17日より開始したコア・ブースター・プロジェクトのためのサンプルです。
+[konashi](http://konashi.ux-xu.com/)は[ユカイ工学](http://www.ux-xu.com/)によって開発された、ワイヤレスなフィジカルコンピューティングのツールキットです。2013年9月24日に開催したコア・ブースター・プロジェクトにおけるワークショップのためのサンプルです。
 
 制作：[小林茂](https://www.facebook.com/yapan.org)（[情報科学芸術大学院大学［IAMAS］](http://www.iamas.ac.jp/)准教授）
 
@@ -44,6 +45,7 @@ Created by [Shigeru Kobayashi](https://www.facebook.com/yapan.org) (Associate pr
 * **AddMapAnnotationsByPhysicalEvents**: 物理的なイベントで地図にピンをドロップするサンプル
 * **ControlByShaking**: iPhoneのシェイク動作でLEDをコントロールする方法を紹介するサンプル
 * **BlinkM**: BlinkM（ThingMが開発したスマートLED）をコントロールする方法を紹介するサンプル
+* **ControlServo**: RCサーボをコントロールする方法を紹介するサンプル
 
 ## リファレンス
 
